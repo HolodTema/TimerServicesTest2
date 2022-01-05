@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TimerServicesTest2</string>
+    <string name="create_new_alarm">создать новый будильник</string>
+    <string name="cancel">назад</string>
+    <string name="apply">применить</string>
+    <string name="delete">удалить</string>
+    <string name="alarm_description">Описание будильника</string>
+    <string name="alarm_signal_is_happening_for">Будильник сработает через</string>
+    <string name="notification_title">Будильник на </string>
+    <string name="notification_text">Не пропустите сигнал этого будильника!</string>
+    <string name="notification_ticker">тикер уведомления</string>
+    <string name="stop">отключить</string>
+</resources>
